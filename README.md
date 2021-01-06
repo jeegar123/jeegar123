@@ -20,7 +20,7 @@ Learning in Computer Science World is never stop, "develop deprecate updated".
 * Fronted technology like Html,CSS,javascript..
 * Database :Mysql,Firebase,MongoDB,PostgreSQL..
 * Develops: Aws, Google Cloud
-* Debugging, fixing bugs 👻 , error 🐛 and performance management of code ⚡️is my good strength 💪
+* Debugging, fixing bugs 🐛 , errors 👻  and performance management of code ⚡️is my good strength 💪
 
 ## Professional 
 
