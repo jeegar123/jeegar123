@@ -1,6 +1,6 @@
-# Hi Devs,I'm Jeegar Vinodkumar
+# Hi Devs :wave: ,I'm Jeegar Vinodkumar
 
-
+###  personal motto 
 
 
  
