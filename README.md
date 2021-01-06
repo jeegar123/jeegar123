@@ -1,6 +1,8 @@
 # Hi Devs :wave: ,I'm Jeegar Vinodkumar
 
 
-## About Me
+## Personal Moto
+Learning in Computer Science World is never stop,"develop deprecate updated" 
 
-Sometimes it's useful to have different levels of headings to structure your documents. Start lines with a `#` to create headings. Multiple `##` in a row denote smaller heading sizes.
+
+## About Me
