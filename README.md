@@ -19,7 +19,7 @@ Learning in Computer Science World is never stop, "develop deprecate updated".
 * Backend technology is My Strength like Php, java, python...
 * Fronted technology like Html,CSS,javascript..
 * Database :Mysql,Firebase,MongoDB,PostgreSQL..
-* Develops: Aws, Google Cloud
+* Develops: Aws, Google Cloud,Git ,Github
 * Debugging, fixing bugs 🐛 , errors 👻  and performance management of code ⚡️is my good strength 💪
 
 ## Professional 
