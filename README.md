@@ -24,7 +24,7 @@ Learning in Computer Science World is never stop, "develop deprecate updated".
 
 ## Professional 
 
-* Planning for a full-stack developer🎉
+* Planning for a Backend Developer🎉
 
 
 
