@@ -25,6 +25,7 @@ Learning in Computer Science World is never stop, "develop deprecate updated".
 ## Professional 
 
 * Planning for a Backend Developer🎉
+  *   Student => Computer Engineer => Programmer => Developer
 
 
 
