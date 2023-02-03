@@ -9,7 +9,7 @@ Learning in Computer Science World is never stop, "develop deprecate updated".
 
 * I'm always curious about different technology and ready to perform a task on it, which always helps to increase my knowledge 🤪
 * Having a degree of B.Tech Computer Enginnering(2021) 
-* Currently Software Engineer at Cybercom Creation(2021).
+* Currently Software Engineer at Cybercom Creation(2023).
 
 
 
