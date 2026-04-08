@@ -19,11 +19,5 @@ B.Tech in Computer Engineering.
 **Magento Developer**
 Transitioned from a student to a Computer Engineer, then a Programmer, and now a seasoned Developer.
 
-
-## 🤝 Let's Connect
-- LinkedIn: https://www.linkedin.com/in/jeegarvinodkumar/
-- Twitter: https://twitter.com/KrazyJeegar
-
-
 Feel free to explore my repositories, and let's collaborate on something amazing! 🚀
 
