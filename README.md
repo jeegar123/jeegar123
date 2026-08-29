@@ -104,6 +104,10 @@ Production integrations with the Claude and Gemini APIs. Agentic tooling, MCP se
 
 <img src="https://skillicons.dev/icons?i=php,python,js,java,html,css&theme=dark" alt="languages" />
 
+**Python Ecosystem**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,anaconda&theme=dark" alt="python ecosystem" />
+
 **Frameworks & Frontend**
 
 <img src="https://skillicons.dev/icons?i=react,vue,nextjs,threejs,nodejs,bootstrap&theme=dark" alt="frameworks" />
