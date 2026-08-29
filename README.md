@@ -1,16 +1,188 @@
-# Hi there! 👋 I'm Jeegar, a passionate Software Engineer.
+<!-- ===================== HEADER ===================== -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:667EEA,50:764BA2,100:F093FB&height=220&section=header&text=Jeegar&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Senior%20Software%20Engineer%20%7C%20E-commerce%20%C2%B7%20Data%20%C2%B7%20AI&descAlignY=55&descSize=18" alt="header" />
 
-## 🚀 Personal Motto
-In the world of Computer Science, learning never stops: "Develop, Deprecate, Update."
+<div align="center">
 
-## 🧔 About Me
-Always curious about different technologies and ready to tackle new tasks, I thrive on continual learning and knowledge enhancement. 🤪
+<a href="https://github.com/jeegar123">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=764BA2&center=true&vCenter=true&width=650&lines=Develop.+Deprecate.+Update.;5%2B+years+scaling+e-commerce+systems;Data+pipelines+%E2%86%92+Reporting+%E2%86%92+AI+tooling;Debugging+what+nobody+else+wants+to+touch+%F0%9F%90%9B" alt="Typing SVG" />
+</a>
 
-## 💻 Technical Knowledge
-- **Backend Technologies:** PHP, Java, Python...
-- **Frontend Technologies:** HTML, CSS, JavaScript, React, Vuejs...
-- **Databases:** MySQL, Firebase, MongoDB, PostgreSQL...
-- **Cloud Platforms:** AWS, Google Cloud.
-- **Version Control:** Git, GitHub.
-- **Specialties:** Debugging, bug fixing 🐛, error hunting 👻, code optimization ⚡️.
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=jeegar123&label=Profile%20Views&color=764BA2&style=for-the-badge" alt="profile views" />
+<a href="https://github.com/jeegar123?tab=followers"><img src="https://img.shields.io/github/followers/jeegar123?label=Followers&style=for-the-badge&color=667EEA&labelColor=1a1b27" alt="followers" /></a>
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20Commerce-F093FB?style=for-the-badge&labelColor=1a1b27" alt="focus" />
+
+</div>
+
+<br/>
+
+<!-- ===================== ABOUT ===================== -->
+<img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
+
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35" /> About Me
+
+```yaml
+name: Jeegar
+role: Senior Software Engineer
+experience: 5+ years
+
+currently:
+  - scaling high-volume e-commerce platforms
+  - building data pipelines & reporting infra
+  - shipping LLM-powered internal tooling
+
+philosophy: >
+  A slow query costs real money.
+  A bad delivery estimate costs a customer.
+  Build accordingly.
+
+learning: [Magento 2, Headless Commerce, Next.js, Agentic Systems]
+ask_me_about: [PHP, Python, Magento, Kafka, Postgres, Claude API]
+```
+
+<br clear="right"/>
+
+---
+
+<!-- ===================== WHAT I DO ===================== -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> What I Work On
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 E-commerce at Scale
+Large Magento platforms — catalog and bundle logic, order flow, and the performance work that keeps a big storefront fast under real traffic.
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Data & Reporting
+Aggregate reporting layers and ETL pipelines over MySQL and PostgreSQL. Event streaming with Kafka. Query optimization on schemas that have grown for a decade.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚚 Delivery & Logistics Logic
+Delivery-date estimation engines, lead-time analysis, and stock-tier modelling — turning warehouse reality into a date a customer can trust.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI Integrations
+Production integrations with the Claude and Gemini APIs. Agentic tooling, MCP servers, and internal automation that actually gets used.
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧪 &nbsp;And the side projects...</b></summary>
+
+<br/>
+
+- **WebGL / Three.js experiments** — GPU particle systems, GLSL shaders, scroll-driven camera work
+- **Scrapers & data tooling** — job board aggregators, anomaly detection over CSV exports
+- **CLI & automation** — session exporters, report generators, Gmail delivery pipelines
+- **MCP servers** — local-first tooling for personal knowledge and workflow automation
+
+<br/>
+
+</details>
+
+---
+
+<!-- ===================== TECH STACK ===================== -->
+## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" /> Tech Stack
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=php,python,js,java,html,css&theme=dark" alt="languages" />
+
+**Frameworks & Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vue,nextjs,threejs,nodejs,bootstrap&theme=dark" alt="frameworks" />
+
+**Data & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,kafka,redis,docker&theme=dark" alt="data" />
+
+**Cloud & Tools**
+
+<img src="https://skillicons.dev/icons?i=aws,gcp,git,github,linux,vscode&theme=dark" alt="tools" />
+
+</div>
+
+---
+
+<!-- ===================== STATS ===================== -->
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /> GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=jeegar123&show_icons=true&count_private=true&hide_border=true&title_color=764BA2&icon_color=F093FB&text_color=8b949e&bg_color=0d1117" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeegar123&layout=compact&hide_border=true&title_color=764BA2&text_color=8b949e&bg_color=0d1117&langs_count=8" alt="top languages" />
+
+<br/><br/>
+
+<img height="180" src="https://streak-stats.demolab.com?user=jeegar123&hide_border=true&ring=764BA2&fire=F093FB&currStreakLabel=764BA2&background=0d1117&sideLabels=8b949e&dates=8b949e&sideNums=ffffff&currStreakNum=ffffff" alt="streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=jeegar123&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
+
+</div>
+
+---
+
+<!-- ===================== ACTIVITY ===================== -->
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30" /> Contribution Graph
+
+<div align="center">
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=jeegar123&bg_color=0d1117&color=764BA2&line=F093FB&point=667EEA&area=true&hide_border=true" alt="activity graph" />
+
+<br/>
+
+<!-- Snake animation — powered by .github/workflows/snake.yml -->
+<img width="95%" src="https://raw.githubusercontent.com/jeegar123/jeegar123/output/snake.svg" alt="contribution snake" />
+
+</div>
+
+---
+
+<!-- ===================== QUOTE ===================== -->
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="quote" />
+
+</div>
+
+---
+
+<!-- ===================== CONNECT ===================== -->
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" /> Let's Build Something
+
+<div align="center">
+
+I'm open to interesting problems — **full-time roles**, **freelance work** around Magento + AI integrations, or just a good technical conversation.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/jeegarvinodkumar/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/jeegar123">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F093FB,50:764BA2,100:667EEA&height=140&section=footer&text=Thanks%20for%20stopping%20by!&fontSize=24&fontColor=ffffff&fontAlignY=75" alt="footer" />
