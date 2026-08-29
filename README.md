@@ -20,7 +20,7 @@
 <!-- ===================== ABOUT ===================== -->
 <img align="right" width="330" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding" />
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="35" /> About Me
+## 🧭 About Me
 
 ```yaml
 name: Jeegar
@@ -46,7 +46,7 @@ ask_me_about: [PHP, Python, Magento, Kafka, Postgres, Claude API]
 ---
 
 <!-- ===================== WHAT I DO ===================== -->
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" /> What I Work On
+## 🔧 What I Work On
 
 <table>
 <tr>
@@ -96,17 +96,13 @@ Production integrations with the Claude and Gemini APIs. Agentic tooling, MCP se
 ---
 
 <!-- ===================== TECH STACK ===================== -->
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30" /> Tech Stack
+## 🛠️ Tech Stack
 
 <div align="center">
 
 **Languages**
 
 <img src="https://skillicons.dev/icons?i=php,python,js,java,html,css&theme=dark" alt="languages" />
-
-**Python Ecosystem**
-
-<img src="https://skillicons.dev/icons?i=python,fastapi,flask,selenium,anaconda&theme=dark" alt="python ecosystem" />
 
 **Frameworks & Frontend**
 
@@ -125,7 +121,7 @@ Production integrations with the Claude and Gemini APIs. Agentic tooling, MCP se
 ---
 
 <!-- ===================== STATS ===================== -->
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30" /> GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
@@ -145,7 +141,7 @@ Production integrations with the Claude and Gemini APIs. Agentic tooling, MCP se
 ---
 
 <!-- ===================== ACTIVITY ===================== -->
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="30" /> Contributions
+## 🗓️ Contributions
 
 <div align="center">
 
@@ -170,7 +166,7 @@ Production integrations with the Claude and Gemini APIs. Agentic tooling, MCP se
 ---
 
 <!-- ===================== CONNECT ===================== -->
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30" /> Let's Build Something
+## 🤝 Let's Build Something
 
 <div align="center">
 
